@@ -8,6 +8,6 @@ Left-click a blocked message to reveal it and click it again to re-hide it.
 - **Blocked players** – names separated by commas or new lines.
 - **Replacement text / colour** – what censored messages look like.
 - **Click to hide again** – lets you re-censor a message you revealed.
-- **Chat types** – clan, guest clan, friends chat, group ironman, public chat.
+- **Chat types** – clan, guest clan, friends chat, group ironman, public chat (does not censor overhead chat).
 
 
