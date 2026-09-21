@@ -10,4 +10,10 @@ Left-click a blocked message to reveal it and click it again to re-hide it.
 - **Click to hide again** – lets you re-censor a message you revealed.
 - **Chat types** – clan, guest clan, friends chat, group ironman, public chat (does not censor overhead chat).
 
+## Known limitation
+If RuneLite's **Chat Filter** plugin is set to filter clan chat members, friends chat
+members or friends, censored messages from those players can't be revealed, and older
+messages from them can't be censored after the fact. Turn those Chat Filter options off
+to use both plugins together.
+
 
